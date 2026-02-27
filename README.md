@@ -20,6 +20,3 @@ VSCode Extension 測試程式
 # VSCode 安裝 VSCode Extension (*.vsix)
 [install vsix](./docs/install_vsix.md)
 
-# git commit message
-[常用描述](./docs/git_commit_message.md)
-
